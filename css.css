@@ -1,0 +1,149 @@
+.przycisk {
+	font-size: 25px; 
+	font-family: Courier; 
+	border: none; 
+	border: 4px solid #333333; 
+	border-radius: 14px; 
+	padding: 5px; 
+	color: white; 
+	background: none; 
+	margin: 10px; 
+	cursor: pointer;
+	z-index: 1;
+}
+
+
+.przycisk:hover {
+	border-color: pink;
+	color: red;
+	background-color: #d9d9d9;
+}
+
+.navib {
+	font-size: 25px; 
+	font-family: Courier; 
+	border: none; 
+	border: 4px solid #333333; 
+	border-radius: 14px; 
+	padding: 5px; 
+	color: white; 
+	background: none; 
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	position: fixed;
+	margin: 10px; 
+	cursor: pointer;
+	z-index: 1;
+}
+
+
+.navib:hover {
+	border-color: pink;
+	color: red;
+	background-color: #d9d9d9;
+}
+
+.navin {
+	font-size: 25px; 
+	font-family: Courier; 
+	border: none; 
+	border: 4px solid #333333; 
+	border-radius: 14px; 
+	padding: 5px; 
+	color: white; 
+	background: none; 
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	position: fixed;
+	margin: 10px; 
+	cursor: pointer;
+	z-index: 1;
+}
+
+
+.navin:hover {
+	border-color: pink;
+	color: red;
+	background-color: #d9d9d9;
+}
+
+.navibFT {
+	font-size: 25px; 
+	font-family: Courier; 
+	border: none; 
+	border: 4px solid #333333; 
+	border-radius: 14px; 
+	padding: 5px; 
+	color: black; 
+	background: none; 
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	position: fixed;
+	margin: 10px; 
+	cursor: pointer;
+	z-index: 1;
+}
+
+
+.navibFT:hover {
+	border-color: pink;
+	color: red;
+	background-color: #d9d9d9;
+}
+
+.navinFT {
+	font-size: 25px; 
+	font-family: Courier; 
+	border: none; 
+	border: 4px solid #333333; 
+	border-radius: 14px; 
+	padding: 5px; 
+	color: Black; 
+	background: none; 
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	position: fixed;
+	margin: 10px; 
+	cursor: pointer;
+	z-index: 1;
+}
+
+
+.navinFT:hover {
+	border-color: pink;
+	color: red;
+	background-color: #d9d9d9;
+}
+
+.td {
+	width: 200px;
+}
+
+.td1 {
+	height: 400px;
+	width: 200px;
+}
+
+.li {
+	font-family: Courier;
+	font-size: 42px;
+	color: #CC0000;
+	text-shadow: black 2px 2px 4px;
+}
+
+.HL {
+	font-family: Courier;
+	font-size: 34px;
+	color: black;
+	margin-left: 20px;
+}
+
+ .tdtd {
+	 width: 480px;
+	 height: 480px;
+	 
+ }
